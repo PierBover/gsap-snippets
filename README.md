@@ -1,4 +1,4 @@
-# gsap-snippets package
+# GSAP Snippets for Atom
 
 Atom snippets for the Greensock animation platform. This is for the Javascript version, since AS3 is almost dead these days.
 
