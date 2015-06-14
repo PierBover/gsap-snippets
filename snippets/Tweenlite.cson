@@ -1,0 +1,4 @@
+'.source.js':
+  'TweenLite':
+    'prefix': 'tweenlite'
+    'body': 'TweenLite.'

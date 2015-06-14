@@ -1,0 +1,4 @@
+'.source.js':
+  '.isTweening() GSAP':
+    'prefix': 'istweening'
+    'body': 'isTweening(${1:target});'

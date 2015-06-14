@@ -1,0 +1,4 @@
+'.source.js':
+  '.set() GSAP':
+    'prefix': 'set'
+    'body': 'set(${1:target}, {${2:parameters}});'

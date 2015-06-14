@@ -1,0 +1,4 @@
+'.source.js':
+  '.from() GSAP':
+    'prefix': 'from'
+    'body': 'from(${1:target}, ${2:duration}, {${3:parameters}});'

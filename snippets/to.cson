@@ -1,0 +1,4 @@
+'.source.js':
+  '.to() GSAP':
+    'prefix': 'to'
+    'body': 'to(${1:target},${2:duration},{${3:parameters}});'

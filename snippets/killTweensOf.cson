@@ -1,0 +1,4 @@
+'.source.js':
+  '.killTweensOf() GSAP':
+    'prefix': 'killtweensof'
+    'body': 'killTweensOf(${1:target}${2:, onlyActive:Boolean}${3:, \{parameters\}});'

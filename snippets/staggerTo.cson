@@ -1,0 +1,4 @@
+'.source.js':
+  '.staggerTo() GSAP':
+    'prefix': 'staggerto'
+    'body': 'staggerTo(${1:targets}, ${2:duration}, {${3:parameters}}, ${4:stagger duration});'

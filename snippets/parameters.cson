@@ -1,0 +1,12 @@
+'.source.js':
+  'onComplete: GSAP':
+    'prefix': 'oncomplete'
+    'body': 'onComplete:'
+
+  'useFrames:true GSAP':
+    'prefix': 'useframes'
+    'body': 'useFrames:true'
+
+  'alpha: GSAP':
+    'prefix': 'alpha'
+    'body': 'alpha:'
