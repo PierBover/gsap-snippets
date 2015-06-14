@@ -1,6 +1,6 @@
 # GSAP Snippets for Atom
 
-Atom snippets for the Greensock animation platform. This is for the Javascript version, since AS3 is almost dead these days.
+Atom snippets for the [Greensock Animation Platform](http://greensock.com/gsap) (TweenLite, TweenMax, etc). This is for the Javascript version, since AS3 is pretty dead these days.
 
 I'm only working on static methods so far because it's what I use 99.99% of the times. If there is interest in instance methods open an issue and let me know.
 
