@@ -3,6 +3,38 @@
     'prefix': 'oncomplete'
     'body': 'onComplete:'
 
+  'onCompleteParams: GSAP':
+    'prefix': 'oncompleteparams'
+    'body': 'onCompleteParams:'
+
+  'onCompleteScope: GSAP':
+    'prefix': 'oncompletescope'
+    'body': 'onCompleteScope:'
+
+  'onStart: GSAP':
+    'prefix': 'onstart'
+    'body': 'onStart:'
+
+  'onStartParams: GSAP':
+    'prefix': 'onstartparams'
+    'body': 'onStartParams:'
+
+  'onStartScope: GSAP':
+    'prefix': 'onstartscope'
+    'body': 'onStartScope:'
+
+  'onUpdate: GSAP':
+    'prefix': 'onupdate'
+    'body': 'onUpdate:'
+
+  'onUpdateParams: GSAP':
+    'prefix': 'onupdateparams'
+    'body': 'onUpdateParams:'
+
+  'onUpdateScope: GSAP':
+    'prefix': 'onupdatescope'
+    'body': 'onUpdateScope:'
+
   'useFrames:true GSAP':
     'prefix': 'useframes'
     'body': 'useFrames:true'
